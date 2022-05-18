@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8e008bfd.css",
+    "main.js": "/static/js/main.bb1a5b6f.js",
+    "static/js/787.683ed9a0.chunk.js": "/static/js/787.683ed9a0.chunk.js",
+    "static/media/background-edited.png": "/static/media/background-edited.41b149709682b1f268c2.png",
+    "static/media/unifair_7.jpg": "/static/media/unifair_7.f886a8046b92df4be1af.jpg",
+    "static/media/map-image-edited.png": "/static/media/map-image-edited.e2e82160b2bcb6a2dc4f.png",
+    "static/media/unifair_5.jpg": "/static/media/unifair_5.02b24c124a07d037c881.jpg",
+    "static/media/unifair_3.jpg": "/static/media/unifair_3.159d8c4bfbc6619f9dec.jpg",
+    "static/media/unifair_6.jpg": "/static/media/unifair_6.e037afcbb407a1abb481.jpg",
+    "static/media/2.jpg": "/static/media/2.96177e9474346bfa04d0.jpg",
+    "static/media/unifair_1.jpg": "/static/media/unifair_1.7ccc687ec340795b76d6.jpg",
+    "static/media/unifair_2.jpg": "/static/media/unifair_2.7b9cdc7efd5aa1fb976a.jpg",
+    "static/media/4.jpg": "/static/media/4.220d1cbad84ddbb70d26.jpg",
+    "static/media/unifair_4.jpg": "/static/media/unifair_4.1bde6111ef5c7f8c7525.jpg",
+    "static/media/1.jpg": "/static/media/1.2fb14c857750c2a3bf5f.jpg",
+    "static/media/3.jpg": "/static/media/3.b0ffea2abdf2687d38d8.jpg",
+    "static/media/5.jpg": "/static/media/5.cb53053784f4a5e2434d.jpg",
+    "static/media/unifair-logo.png": "/static/media/unifair-logo.15abf4efe6462f4824b1.png",
+    "index.html": "/index.html",
+    "static/media/close-icon.svg": "/static/media/close-icon.9beab5aff8c5b76c45d268b7c45c43f5.svg",
+    "main.8e008bfd.css.map": "/static/css/main.8e008bfd.css.map",
+    "main.bb1a5b6f.js.map": "/static/js/main.bb1a5b6f.js.map",
+    "787.683ed9a0.chunk.js.map": "/static/js/787.683ed9a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e008bfd.css",
+    "static/js/main.bb1a5b6f.js"
+  ]
+}
